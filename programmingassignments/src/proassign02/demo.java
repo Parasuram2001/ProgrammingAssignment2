@@ -1,0 +1,33 @@
+package proassign02;
+
+import java.util.Scanner;
+
+public class demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+		int sum=0;
+		int no=100;
+		System.out.println("enter the natural number: ");
+		int a=sc.nextInt();
+		
+		//for (int i=1;i<=a;i++)
+//		{
+//			sum=sum+i;
+//			System.out.println(sum);
+//		}
+		while(no!=0) {
+			if (no<=a) {
+				sum=sum+a;
+			}
+			System.out.println(sum);
+		}
+		
+		
+	}
+		
+	}
+
+
+

@@ -1,0 +1,21 @@
+package proassign6;
+import java.util.Scanner;
+public class dem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String a="this place is awesome";
+		String vowels=" ";
+		for (char i='a';i<='z';i++)
+		{
+			char ch=a.charAt(i);
+			if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u');
+			{
+				vowels=vowels+ch;
+			}
+		}
+		System.out.println(vowels);
+
+	}
+
+}

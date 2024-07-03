@@ -1,0 +1,21 @@
+package proassign18;
+import java.util.Scanner;
+public class den {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter the natural number: ");
+		int a=sc.nextInt();
+		int no=1;
+		while(no<=10)
+		{
+			System.out.println(a*no+"="+a);
+			no++;
+		}
+		
+		
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package proassign7;
+
+public class demi {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int no=1;
+		int mul=2;
+		for (int i=no;i<=300;i++)
+		{
+			mul=mul*i;
+			if(i<=10)
+				System.out.println("2*"+i+"="+i*2);
+				
+		}
+
+	}
+
+}

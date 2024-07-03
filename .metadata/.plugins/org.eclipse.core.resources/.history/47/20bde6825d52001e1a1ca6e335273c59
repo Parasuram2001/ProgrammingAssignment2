@@ -1,0 +1,19 @@
+package proassign11;
+
+public class jaa {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int no=1;
+		while(no<=10)
+		{
+			System.out.print(no);
+			if (no>11)
+			{
+				break;
+			}
+		}
+
+	}
+
+}

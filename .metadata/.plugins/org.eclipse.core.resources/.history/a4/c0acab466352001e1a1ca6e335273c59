@@ -1,0 +1,25 @@
+package proassign17;
+
+public class dum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int no=45;
+		int binary=0;
+		if(no==0)
+		{
+			System.out.println(binary);
+		}
+		else {
+			while(no>0)
+			{
+				int rem=no%2;
+				binary=binary+rem;
+				no=no/2;
+			}
+		}
+		System.out.println(binary);
+
+	}
+
+}

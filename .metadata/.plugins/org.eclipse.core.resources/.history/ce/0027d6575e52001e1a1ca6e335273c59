@@ -1,0 +1,20 @@
+package proassign12;
+
+public class dam {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int no=10;
+		while(no!=0)
+		{
+			if(no<=1)
+			{
+				System.out.print(no+" ");
+				no--;
+			}
+			
+			
+		}
+
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;programmingassignments&apos; to &apos;proassign1&apos;&#x0D;&#x0A;- Original project: &apos;programmingassignments&apos;&#x0D;&#x0A;- Original element: &apos;programmingassignments/src/programmingassignments&apos;&#x0D;&#x0A;- Renamed element: &apos;programmingassignments/src/proassign1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;programmingassignments&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;programmingassignments" name="proassign1" qualified="false" references="true" stamp="1694533359591" textual="false" version="1.0"/>
+</session>

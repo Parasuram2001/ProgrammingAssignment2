@@ -1,0 +1,26 @@
+package proassign6;
+
+public class dem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String a="this place is awesome";
+		String vowels=" ";
+		for (int i=0;i<=a.length()-1;i++)
+		{
+			char ch=charAt(i);
+			if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u')
+			{
+				vowels=vowels+ch;
+			}
+			System.out.println(vowels);
+		}
+
+	}
+
+	private static char charAt(int i) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}
